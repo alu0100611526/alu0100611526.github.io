@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Interfaces.xsl"?>
+<pagina>
+
+  <titulo_principal> Sordex - Interfaces </titulo_principal>
+
+  <contenido>
+        <titulo>PC</titulo>
+        <pic>
+          <foto>InicioPC.jpg</foto>
+          <foto>ConfiguracionPC.jpg</foto>
+        </pic>
+  </contenido>
+  <contenido>
+        <titulo>Movil</titulo>
+        <pic>
+          <foto>InicioMovil.jpg</foto>
+          <foto>FormatoSalidaMovil.jpg</foto>
+        </pic>
+  </contenido>
+  <contenido>
+        <titulo>Tablet</titulo>
+        <pic>
+          <foto>InicioTablet.jpg</foto>
+          <foto>ConfiguracionTablet.jpg</foto>
+        </pic>
+  </contenido>
+ 
+</pagina>
+
+

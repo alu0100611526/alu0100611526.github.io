@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="XSL.xsl"?>
+<pagina>
+
+  <titulo_principal> Sordex </titulo_principal>
+  <bloque>
+        <noticia>
+            	<titulo>Escenario 1</titulo>
+	    	<foto> Escenario1.png </foto>
+	</noticia>
+
+	<noticia>
+            	<titulo>Escenario 2</titulo>
+		<foto> Escenario2.png </foto>
+	</noticia>
+
+  </bloque>
+
+  <contenido>
+        <titulo>Descripcion</titulo>
+        <foto>Logo.png</foto>
+        <articulo>
+        Aplicación de reconocimiento gestual, que procesa el lenguaje de signos y lo traduzce al lenguaje natural, tanto texto como voz, de manera que pueda servir de interprete entre dos usuarios (uno que conozca el lenguaje y otro que no) Sería usado por personas con problema de audición y personas mudas.
+
+		Un programa que mejore la calidad de vida de los sordos y mudos, pudiendo comunicarse con otras personas de una forma más dinámica. Se podrá usar en móviles y computadoras y se pretende que sea asequible para cualquier usuario.
+        </articulo>
+  </contenido>
+
+  <multimedia>
+  		<video>http://www.youtube.com/v/8wYS9n98CLw</video>
+  </multimedia>	
+
+  
+ 
+</pagina>
+
+
